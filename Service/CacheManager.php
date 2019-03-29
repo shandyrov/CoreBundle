@@ -7,7 +7,7 @@ use Symfony\Component\Filesystem\Filesystem;
 /**
  * Class CacheManager
  *
- * @package App\Service
+ * @package CoreBundle
  */
 class CacheManager
 {
