@@ -1,0 +1,31 @@
+{
+    "name" : "shandyrov/corebundle",
+    "description" : "Core bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "askar",
+        "email" : "shandyrov@gmail.com"
+    }],
+    "keywords" : [
+        "core bundle" 
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {    
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Sputnik\\CoreBundle\\" : ""
+        }
+    },
+    "target-dir" : "Sputnik/CoreBundle",
+    "repositories":[{
+      
+    }],
+    "extra" : {
+        "branch-alias" : {
+            "dev-master" : "0.1-dev"  
+        }
+    }
+}

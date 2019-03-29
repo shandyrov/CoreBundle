@@ -1,0 +1,3 @@
+admin_bundle_core_index:
+  path: /admin/bundle/core
+  controller: Sputnik\CoreBundle\Controller\Backend\GeneralController::index
